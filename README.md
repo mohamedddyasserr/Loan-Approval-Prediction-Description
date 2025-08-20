@@ -73,6 +73,7 @@ After preprocessing:
 
 
 loan-approval-prediction/
+
 ├── raw_data/ 
 ├── processed_data/ 
 ├── notebooks/
