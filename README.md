@@ -74,13 +74,20 @@ After preprocessing:
 
 loan-approval-prediction/
 
-├── raw_data/ 
-├── processed_data/ 
+├── raw_data/
+
+├── processed_data/
+
 ├── notebooks/
+
 │ ├── 01_preprocessing.ipynb 
-│ ├── 02_model_training.ipynb 
-│ └── 03_evaluation.ipynb 
-├── plots/ 
+
+│ ├── 02_model_training.ipynb
+
+│ └── 03_evaluation.ipynb
+
+├── plots/
+
 └── README.md 
 ---
 
