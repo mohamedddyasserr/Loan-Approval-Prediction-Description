@@ -73,16 +73,20 @@ After preprocessing:
 
 ---
 
-loan-approval-prediction/
-├── raw\_data/                # Raw dataset from Kaggle
-├── processed\_data/          # Preprocessed train/test CSVs
+PredictiLoan/
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   └── curated/
+├── models/
+├── figures/
 ├── notebooks/
-│   ├── 01\_preprocessing.ipynb       # Data preprocessing
-│   ├── 02\_model\_training.ipynb      # Logistic Regression & SVM training
-│   └── 03\_evaluation.ipynb          # Evaluation & visualization
-├── plots/                   # Metrics, ROC, Precision-Recall curves
-└── README.md                # Documentation
-
+│   ├── 01_data_setup.ipynb
+│   ├── 02_model_training.ipynb
+│   └── 03_model_evaluation.ipynb
+├── src/
+├── main.py
+└── README.md
 ---
 
 ## Author 
