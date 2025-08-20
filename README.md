@@ -49,9 +49,7 @@ After preprocessing:
 
 | Logistic Regression | Support Vector Machine (SVM) |
 |----------------------|------------------------------|
-| <img width="478" height="397" alt="image" src="https://github.com/user-attachments/assets/fd9e1a13-c0b6-40ca-bbee-4bdb91c07c16" />
- />
- | <img width="478" height="404" alt="image" src="https://github.com/user-attachments/assets/98993dfb-f4b9-47cb-9670-842d6d406489" />|
+| <img width="500" height="397" alt="image" src="https://github.com/user-attachments/assets/fd9e1a13-c0b6-40ca-bbee-4bdb91c07c16" />| <img width="500" height="404" alt="image" src="https://github.com/user-attachments/assets/98993dfb-f4b9-47cb-9670-842d6d406489" />|
 
 ---
 
@@ -59,8 +57,7 @@ After preprocessing:
 
 | Logistic Regression | Support Vector Machine (SVM) |
 |----------------------|------------------------------|
-| <img width="478" height="404" alt="image" src="https://github.com/user-attachments/assets/92666604-2d0b-4d6d-b039-07a7686942f0" />
- | <img width="478" height="404" alt="image" src="https://github.com/user-attachments/assets/a67e6fdf-4b79-4940-a346-3944b11b5c67" />|
+| <img width="500" height="404" alt="image" src="https://github.com/user-attachments/assets/92666604-2d0b-4d6d-b039-07a7686942f0" />| <img width="500" height="404" alt="image" src="https://github.com/user-attachments/assets/a67e6fdf-4b79-4940-a346-3944b11b5c67" />|
 
 ---
 
@@ -68,8 +65,7 @@ After preprocessing:
 
 | Logistic Regression | Support Vector Machine (SVM) |
 |----------------------|------------------------------|
-| <img width="478" height="404" alt="image" src="https://github.com/user-attachments/assets/e9da30d8-0f71-4507-8014-19aef1b3bf6b" />
- | <img width="478" height="404" alt="image" src="https://github.com/user-attachments/assets/fab02693-7732-4c2f-81fe-40fedfbd7a1a" />|
+| <img width="500" height="404" alt="image" src="https://github.com/user-attachments/assets/e9da30d8-0f71-4507-8014-19aef1b3bf6b" />| <img width="500" height="404" alt="image" src="https://github.com/user-attachments/assets/fab02693-7732-4c2f-81fe-40fedfbd7a1a" />|
 
 ---
 
