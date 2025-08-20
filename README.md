@@ -71,22 +71,16 @@ After preprocessing:
 
 ## Project Structure  
 
----
 
-PredictiLoan/
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── curated/
-├── models/
-├── figures/
+loan-approval-prediction/
+├── raw_data/ 
+├── processed_data/ 
 ├── notebooks/
-│   ├── 01_data_setup.ipynb
-│   ├── 02_model_training.ipynb
-│   └── 03_model_evaluation.ipynb
-├── src/
-├── main.py
-└── README.md
+│ ├── 01_preprocessing.ipynb 
+│ ├── 02_model_training.ipynb 
+│ └── 03_evaluation.ipynb 
+├── plots/ 
+└── README.md 
 ---
 
 ## Author 
