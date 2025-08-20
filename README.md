@@ -69,7 +69,9 @@ After preprocessing:
 
 ---
 
-## Project Structure    
+## Project Structure  
+
+---
 
 loan-approval-prediction/
 ├── raw\_data/                # Raw dataset from Kaggle
