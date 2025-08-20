@@ -69,20 +69,17 @@ After preprocessing:
 
 ---
 
-## Project Structure  
+## Project Structure    
 
 loan-approval-prediction/
-│
-├── raw_data/ # Raw dataset from Kaggle
-├── processed_data/ # Preprocessed train/test CSVs
+├── raw\_data/                # Raw dataset from Kaggle
+├── processed\_data/          # Preprocessed train/test CSVs
 ├── notebooks/
-│ ├── 01_preprocessing.ipynb # Data preprocessing
-│ ├── 02_model_training.ipynb # Logistic Regression & SVM training
-│ └── 03_evaluation.ipynb # Evaluation & visualization
-│
-├── plots/ # Metrics, ROC, Precision-Recall curves
-├── README.md # Documentation
-
+│   ├── 01\_preprocessing.ipynb       # Data preprocessing
+│   ├── 02\_model\_training.ipynb      # Logistic Regression & SVM training
+│   └── 03\_evaluation.ipynb          # Evaluation & visualization
+├── plots/                   # Metrics, ROC, Precision-Recall curves
+└── README.md                # Documentation
 
 ---
 
