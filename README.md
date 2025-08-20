@@ -69,26 +69,15 @@ After preprocessing:
 
 ---
 
-## Project Structure  
 
+## Conclusion  
 
-loan-approval-prediction/
+Both **Logistic Regression** and **SVM** achieved strong performance with an AUC of **0.97**, indicating excellent classification capability.  
+- Logistic Regression provided slightly simpler interpretability.  
+- SVM performed marginally better in accuracy and recall.  
 
-├── raw_data/
+This shows that **both models are reliable** for predicting loan approvals, and either can be used depending on whether interpretability (LogReg) or slightly higher accuracy (SVM) is prioritized.  
 
-├── processed_data/
-
-├── notebooks/
-
-│ ├── 01_preprocessing.ipynb 
-
-│ ├── 02_model_training.ipynb
-
-│ └── 03_evaluation.ipynb
-
-├── plots/
-
-└── README.md 
 ---
 
 ## Author 
